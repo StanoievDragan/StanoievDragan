@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanoiev Dragan</h1>
 <h3 align="center">A passionate full stack developer from Romania</h3>
 
-<h3 align="center">An adaptable team player with a passion for exploring the latest in technology and a love for traveling. Known for fostering strong professional relationships, maintaining a positive yet realistic outlook. Adept at providing and seeking assistance when needed, while demonstrating persistence in achieving goals. Overall, committed to collaborative success and embracing new challenges.</h3>
+<h4 align="center">An adaptable team player with a passion for exploring the latest in technology and a love for traveling. Known for fostering strong professional relationships, maintaining a positive yet realistic outlook. Adept at providing and seeking assistance when needed, while demonstrating persistence in achieving goals. Overall, committed to collaborative success and embracing new challenges.</h3>
 
 - 🔭 I’m currently working on [El-proyecte-grande](https://github.com/florinbighiu/El-proyecte-grande)
 
