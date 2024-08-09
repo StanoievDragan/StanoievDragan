@@ -3,13 +3,13 @@
 
 - An adaptable team player with a passion for exploring the latest in technology and a love for traveling. Known for fostering strong professional relationships, maintaining a positive yet realistic outlook. Adept at providing and seeking assistance when needed, while demonstrating persistence in achieving goals. Overall, committed to collaborative success and embracing new challenges.
 
-- 🔭 I’m currently working on [El-proyecte-grande](https://github.com/florinbighiu/El-proyecte-grande)
+- 🔭 I’m currently working on [Proiect Veziv](https://github.com/StanoievDragan/Proiect_Veziv)
 
-- 🌱 I’m currently learning **react js and spring boot**
+- 🌱 I’m currently learning **React JS and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/StanoievDragan](https://github.com/StanoievDragan)
+- 👨‍💻 My website: https://draganstanoiev.dev
 
-- 📫 How to reach me **kamisugames@gmail.com**
+- 📫 Reach out @ **draganstanoiev123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
